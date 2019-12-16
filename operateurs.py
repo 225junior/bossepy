@@ -1,0 +1,9 @@
+a = 25
+b = 6
+print(a ," + ", b ," = ", a+b)
+print(a ," x ", b ," = ", a*b)
+print(a ," - ", b ," = ", a-b)
+print(a ," / ", b ," = ", a/b)
+print(a ," // ", b ," = ", a//b)
+print(a ," Mod ", b ," = ", a%b)
+print(5 ," Expo 2"," = ", 5**2)
