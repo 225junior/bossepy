@@ -15,4 +15,3 @@ print (quotes[-1])#accede au dernier élément de la liste
 quotes.pop(1)#supprime l'élément déindex 1: le deuxieme élément
 quotes.insert(0,'Je viens tous vous surclasser')
 print (quotes)
-fdjfd

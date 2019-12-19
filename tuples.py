@@ -1,0 +1,6 @@
+PaysVille = ("Afganistan","Bolivie","Côte D'ivoire","Canada")
+print (type(PaysVille))
+print (PaysVille)
+print (PaysVille[1])
+print (len(PaysVille))
+print ("test")
